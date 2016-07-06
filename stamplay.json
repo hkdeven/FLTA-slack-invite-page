@@ -1,0 +1,10 @@
+{
+  "appId": "fltaslack",
+  "apiKey": "3c708ba99d11908cde7187114dd7150fa8a107f8dc94d656440a95dafcfc4857",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
