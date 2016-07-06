@@ -16,6 +16,6 @@ This process involved:
 
 ###[Click here to join our Slack!](https://fltaslack.stamplayapp.com/)###
 
-![picture alt](https://github.com/hkdeven/FLTA-slack-invite-page/blob/master/readme-img.png?raw=true "Your automated Slack signup page")
+[![picture alt](https://github.com/hkdeven/FLTA-slack-invite-page/blob/master/readme-img.png?raw=true "Your automated Slack signup page")](https://fltaslack.stamplayapp.com/)
 
 Created and open-sourced by the [Fort Lauderdale Tech Association](http://fortlauderdaletech.org/).
