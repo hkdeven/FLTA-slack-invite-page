@@ -1,8 +1,6 @@
 @import url(font-awesome.min.css);
-@import url(ionicons.min.css);
 @import url(bootstrap.min.css);
 @import url(animate.css);
-@import url(photoswipe.css);
 @import url(jquery.mCustomScrollbar.css);
 @import url(vegas.css);
 @import url(style.css);
@@ -12,12 +10,6 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,200,600");
 @import url("https://fonts.googleapis.com/css?family=Pacifico");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
-
-/*
-	Eventually by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Reset */
 
@@ -1190,10 +1182,10 @@
 				-webkit-transition: opacity 0.5s ease-in-out;
 				-ms-transition: opacity 0.5s ease-in-out;
 				transition: opacity 0.5s ease-in-out;
-				bottom: 4em;
+				bottom: 2em;
 				color: #ffffff;
 				left: 4em;
-				opacity: 0.9;
+				opacity: 0.5;
 				position: absolute;
 			}
 
@@ -1217,7 +1209,7 @@
 				@media screen and (max-width: 1680px) {
 
 					#footer {
-						bottom: 3.5em;
+						bottom: 1.5em;
 						left: 3.5em;
 					}
 
@@ -1226,7 +1218,7 @@
 				@media screen and (max-width: 736px) {
 
 					#footer {
-						bottom: 2em;
+						bottom: 1em;
 						left: 2em;
 					}
 
