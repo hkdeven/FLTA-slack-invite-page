@@ -27,18 +27,27 @@
 				<meta name="msapplication-TileImage" content="images/favicons/mstile-144x144.png">
 				<meta name="theme-color" content="#ffffff">
 				<link rel="stylesheet" href="assets/css/main.css" />
+				<script src="assets/js/modernizr.custom.js"></script>
 		</head>
 	<body>
 
 		<div class="global-overlay">
+			<canvas id="constellationel"></canvas>
 			<div class="overlay">
 				<div class="overlay-dash"></div>
 
 			</div>
 		</div>
 
+		<div id="home-wrapping">
+			<!-- stars overlay -->
+			<div id='stars'></div>
+			<div id='stars2'></div>
+			<div id='stars3'></div>
+</div>
 		<!-- Header -->
 			<header id="header">
+
 				<img src="images/logo.png" width="100px">
 				<h1>Fort Lauderdale's #Slack community</h1>
 				<p>Meet and connect with the tech community in Broward County.<br />
@@ -60,11 +69,19 @@
 			</footer>
 
 			<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.easings.min.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/bootstrap.min.js"></script>
+			<script src="assets/js/velocity.min.js"></script>
+			<script src="assets/js/velocity.ui.min.js"></script>
 			<script src="assets/js/vegas.js"></script>
 			<script src="assets/js/jquery.mousewheel.js"></script>
 			<script src="assets/js/jquery.mCustomScrollbar.js"></script>
+<script src="assets/js/classie.js"></script>
+<script src="assets/js/dialogFx.js"></script>
+<script src="assets/js/photoswipe.js"></script>
+<script src="assets/js/photoswipe-ui-default.js"></script>
+<script src="assets/js/constellation.js"></script>
 			<script>
 				var stamplay_appid = "fltaslack";
 				var stamplay_webhookid = "invites";
